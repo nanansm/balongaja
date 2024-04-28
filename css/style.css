@@ -27,7 +27,7 @@ body {
   min-height: 100vh;
   height: auto;
   letter-spacing: 0.1em;
-  font-family: 'poppins';
+  font-family: 'Roboto';
   background-color: #0d322e;
 }
 
@@ -38,7 +38,7 @@ h1 {
 h2 {
   color: #ffffff;
   letter-spacing: 0em;
-  font-family: 'poppins';
+  font-family: 'Roboto';
 }
 
 h3{
@@ -47,7 +47,7 @@ h3{
 
 p{
   color: #ffffff;
-  font-family: 'poppins';
+  font-family: 'Roboto';
 }
 
 h5{
@@ -117,7 +117,7 @@ a {
   padding: 15px 1px;
   background-color: #ffff;
   box-shadow: 2px 5px black;
-  font-family: 'poppins';
+  font-family: 'Roboto';
 }
 
 a:hover{
